@@ -5,7 +5,7 @@ below pattern.
 
 Input : iRow = 4  iCol = 3
 
-Output  : 
+Output  :                                    
           *   *   *           
           *   *   *          
           *   *   *        
